@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi Humans!
+Hunot here, I like node.js cause its fun!
